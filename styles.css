@@ -1,0 +1,32 @@
+body{
+  padding:0;
+  margin:0;
+  background-color: #0F044C;
+}
+.container h1{
+  font-size: 4rem;
+  text-align: center;
+  padding:30px;
+  color:#88FFF7;
+  font-family: 'Roboto Mono', monospace;
+}
+button{
+  text-align: center;
+  font-size: 6rem;
+  width:150px;
+  height:150px;
+  padding:10px;
+  margin:30px;
+  font-family: 'Zen Tokyo Zoo', cursive;
+  color: #A03C78;
+  border-radius: 20px;
+  border-color: #57837B;
+  border-width: 10px;
+}
+.drums{
+  margin-top: 100px;
+}
+.pressed{
+  box-shadow: 0 4px 2px 0 #787A91;
+  opacity: 0.4;
+}
